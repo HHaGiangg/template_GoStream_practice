@@ -1,0 +1,1 @@
+# template_GoStream_practice
